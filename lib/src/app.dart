@@ -17,7 +17,7 @@ class MyAppState extends State<MyApp> {
         headers: {
           "Accept": "application/json",
           "x-rapidapi-key":
-              "035ed76516msh29f069a8083e9eap1be7eajsn584eb5c3b005",
+              "['Disabled API_KEY']",   //API_KEY disabled 
           "x-rapidapi-host":
               "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com"
         });
